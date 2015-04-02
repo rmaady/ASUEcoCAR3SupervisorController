@@ -15,6 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.slx -crlf -diff -merge
 *.mat -crlf -diff -merge
 *.mdl -crlf -diff -merge
 *.mexw32 -crlf -diff -merge
